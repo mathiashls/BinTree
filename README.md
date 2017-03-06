@@ -1,3 +1,4 @@
-### BINTREE FUCKERS
+### BinTree
 
-It's a tiny project, wtf are you guys doing here? Sick cunts
+PRG2 final project from Mathias Hillesheim and Lucas Thiesen.
+IFSC-SJ
